@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title: "Hello, World!"
+categories: misc
 ---
 Hi there, I'm Jordan. 
 

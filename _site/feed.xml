@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-29T23:28:57-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">AutomateEverything.dev</title><subtitle>Jordan Bottrell is a site reliability engineer, software development enthusiast, and West Michigan native. Avid blogger and freelance developer, helping others learn and succeed is the name of the game.  
+</subtitle><author><name>Jordan Bottrell</name><email>jbottrell404@automateeverything.com</email></author><entry><title type="html">Hello, World!</title><link href="http://localhost:4000/misc/2022/12/29/hello-world.html" rel="alternate" type="text/html" title="Hello, World!" /><published>2022-12-29T00:00:00-05:00</published><updated>2022-12-29T00:00:00-05:00</updated><id>http://localhost:4000/misc/2022/12/29/hello-world</id><content type="html" xml:base="http://localhost:4000/misc/2022/12/29/hello-world.html"><![CDATA[<p>Hi there, I’m Jordan.</p>
+
+<p>I’m a technology enthusiast working full time as a Site Reliability Engineer and moonlighting as a technology blogger and freelance cross-platform developer. I graduated from the University of Michigan and have amassed over 5 years of professional IT experience across a variety of roles ranging from Technical Consultant to Software Developer.</p>
+
+<p>My specific area of expertise revolves around Microsoft Azure development with .NET, but I actively work on projects involving Application Performance Monitoring and infrastructure automation, as well as a ton of other interesting topics.</p>
+
+<h3 id="how-we-got-here">How we got here</h3>
+<p>Developing my personal website has been a project that I’ve been working on for a while. At first, I built out a few Wordpress sites using cheap web hosting providers, but found them to be slow and unresponsive. Not to mention, while Wordpress excels in terms of ease-of-deployment, I found it a pain to build something both minimal and functional.</p>
+
+<p><img src="https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/media/get-started-partners/customer-costs1.png#lightbox" alt="image" /></p>
+
+<p>Thus, I utilized my professional knowledge of the Microsoft Azure world and created my own website from scratch, deploying it via an Azure Web App. This ended up just being too expensive for my purposes, and I’ve been searching for a better fit for a while now.</p>
+
+<p>GitHub Pages has allowed me to deploy a working minimal blog-style website for free, utilizing Markdown for content rather than fiddling with HTML. Ironically, my initial plan for my website was to build an API that allowed my to display Markdown in a blog style, so the project structure of a Jekyll-themed GitHub Pages site is almost exactly what I had envisioned.</p>
+
+<h3 id="why-should-you-stick-around">Why Should you Stick Around?</h3>
+<p>I post frequent high-quality blog posts based around software development, specifically within the Microsoft space. Rest assured that if I run into an issue in production, there will be a blog about it. Not to mention projects that I’m working on, lessons I’ve learned, and reviews of the latest consumer tech.</p>
+
+<p>I also occasionally host a podcast where I talk about IT Careers, drawing from my own experience and that of my network.</p>
+
+<p>If you enjoy technology, there’s probably something here for you!</p>
+
+<p>My social links are below in the footer here. I cordially invite you to connect with me over on Linkedin, follow my GitHub profile, and follow me on Twitter to keep up with the latest content. Cheers! 🍻</p>]]></content><author><name>Jordan Bottrell</name><email>jbottrell404@automateeverything.com</email></author><category term="misc" /><summary type="html"><![CDATA[Hi there, I’m Jordan.]]></summary></entry><entry><title type="html">This post demonstrates post content styles</title><link href="http://localhost:4000/junk/2016/05/20/this-post-demonstrates-post-content-styles.html" rel="alternate" type="text/html" title="This post demonstrates post content styles" /><published>2016-05-20T00:00:00-04:00</published><updated>2016-05-20T00:00:00-04:00</updated><id>http://localhost:4000/junk/2016/05/20/this-post-demonstrates-post-content-styles</id><content type="html" xml:base="http://localhost:4000/junk/2016/05/20/this-post-demonstrates-post-content-styles.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</p>
+
+<h2 id="some-great-heading-h2">Some great heading (h2)</h2>
+
+<p>Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.</p>
+
+<p>Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<h2 id="another-great-heading-h2">Another great heading (h2)</h2>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</p>
+
+<h3 id="some-great-subheading-h3">Some great subheading (h3)</h3>
+
+<p>Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.</p>
+
+<p>Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.</p>
+
+<h3 id="some-great-subheading-h3-1">Some great subheading (h3)</h3>
+
+<p>Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<blockquote>
+  <p>This quote will <em>change</em> your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don’t <em>misuse</em> it.</p>
+</blockquote>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.</p>
+
+<h3 id="some-great-subheading-h3-2">Some great subheading (h3)</h3>
+
+<p>Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;html&gt;</span>
+  <span class="nt">&lt;head&gt;</span>
+  <span class="nt">&lt;/head&gt;</span>
+  <span class="nt">&lt;body&gt;</span>
+    <span class="nt">&lt;p&gt;</span>Hello, World!<span class="nt">&lt;/p&gt;</span>
+  <span class="nt">&lt;/body&gt;</span>
+<span class="nt">&lt;/html&gt;</span>
+</code></pre></div></div>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h4 id="you-might-want-a-sub-subheading-h4">You might want a sub-subheading (h4)</h4>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h4 id="but-its-probably-overkill-h4">But it’s probably overkill (h4)</h4>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h5 id="could-be-a-smaller-sub-heading-pacman-h5">Could be a smaller sub-heading, <code class="language-plaintext highlighter-rouge">pacman</code> (h5)</h5>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h6 id="small-yet-significant-sub-heading--h6">Small yet significant sub-heading  (h6)</h6>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h3 id="oh-hai-an-unordered-list">Oh hai, an unordered list!!</h3>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<ul>
+  <li>First item, yo</li>
+  <li>Second item, dawg</li>
+  <li>Third item, what what?!</li>
+  <li>Fourth item, fo sheezy my neezy</li>
+</ul>
+
+<h3 id="oh-hai-an-ordered-list">Oh hai, an ordered list!!</h3>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<ol>
+  <li>First item, yo</li>
+  <li>Second item, dawg</li>
+  <li>Third item, what what?!</li>
+  <li>Fourth item, fo sheezy my neezy</li>
+</ol>
+
+<h2 id="headings-are-cool-h2">Headings are cool! (h2)</h2>
+
+<p>Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.</p>
+
+<h3 id="tables">Tables</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title 1</th>
+      <th>Title 2</th>
+      <th>Title 3</th>
+      <th>Title 4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>lorem</td>
+      <td>lorem ipsum</td>
+      <td>lorem ipsum dolor</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title 1</th>
+      <th>Title 2</th>
+      <th>Title 3</th>
+      <th>Title 4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>lorem</td>
+      <td>lorem ipsum</td>
+      <td>lorem ipsum dolor</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor sit amet</td>
+      <td>lorem ipsum dolor sit amet consectetur</td>
+      <td>lorem ipsum dolor sit amet</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor</td>
+      <td>lorem ipsum</td>
+      <td>lorem</td>
+      <td>lorem ipsum</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit amet</td>
+      <td>lorem ipsum dolor sit amet consectetur</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>[&quot;Bart Simpson&quot;, &quot;Nelson Mandela Muntz&quot;]</name></author><category term="junk" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.]]></summary></entry><entry><title type="html">Welcome To Jekyll</title><link href="http://localhost:4000/2016/05/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome To Jekyll" /><published>2016-05-20T00:00:00-04:00</published><updated>2016-05-20T00:00:00-04:00</updated><id>http://localhost:4000/2016/05/20/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2016/05/20/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="http://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Jordan Bottrell</name><email>jbottrell404@automateeverything.com</email></author><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
